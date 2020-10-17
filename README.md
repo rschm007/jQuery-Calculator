@@ -1,9 +1,9 @@
-New York Times Article Search
+jQuery Calculator
 -----------------------------
 
 This webapp was designed as part of the UCI Web Development Bootcamp.
 
-This app uses jQuery and the Moment.js library to allow a user to save events for each hour of the day in a neatly organized table. The table rows change color depending upon if the hour is in the past, present, or future. 
+This app uses jQuery to perform equations and append results to the DOM.
 
 The project has been deployed to GitHub pages. To use the app you can follow the deployment link or download the source files for you to use as a template.
 
@@ -11,7 +11,7 @@ The project has been deployed to GitHub pages. To use the app you can follow the
 Prerequisites
 -----------------------------
 
-To install this application you will need a text editor like Visual Studio Code.
+To install this application you will need a text editor like Visual Studio Code. You will also need the jQuery library installed.
 
 
 Summary
